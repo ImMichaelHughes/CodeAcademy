@@ -1,7 +1,7 @@
 import random
 
-name = "Supplicant"
-question = "Type a deep and mysterious question here"
+name = ""
+question = ""
 answer = ""
 random_number = random.randint(1,9)
 # print(random_number)
